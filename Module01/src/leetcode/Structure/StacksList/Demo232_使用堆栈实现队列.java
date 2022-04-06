@@ -2,7 +2,7 @@ package leetcode.Structure.StacksList;
 
 import java.util.Stack;
 
-public class Demo232_使用堆栈实现队列 {
+public class  Demo232_使用堆栈实现队列 {
     class MyQueue {
         private Stack<Integer> a;
         private Stack<Integer> b;
