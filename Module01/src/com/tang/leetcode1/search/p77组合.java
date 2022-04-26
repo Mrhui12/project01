@@ -17,7 +17,7 @@ public class p77组合 {
         //减枝
         if(ans.size()+(n-index+1)<k)return;
         if (ans.size() == k) {
-            res.add(new ArrayList(ans));//不要xie<>
+            res.add(new ArrayList<>(ans));//不要xie<>
             return;
         }
         for (int i = index; i <= n; i++) {
