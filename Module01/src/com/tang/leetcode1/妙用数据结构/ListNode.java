@@ -1,4 +1,4 @@
-package com.tang.leetcode1.douleindex;
+package com.tang.leetcode1.妙用数据结构;
 
 public class ListNode {
 

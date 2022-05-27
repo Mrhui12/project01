@@ -1,10 +1,8 @@
-package com.tang.leetcode1.douleindex;
+package com.tang.leetcode1.数学;
 
 public class ListNode {
-
     int val;
     ListNode next;
-
     public ListNode() {
     }
 
